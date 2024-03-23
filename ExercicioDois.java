@@ -25,6 +25,9 @@ public class ExercicioDois {
                 System.out.println(num[i] + " é igual a zero!");
             }
         }
+
+        Prompt.separador();
+        
     }
  }
 

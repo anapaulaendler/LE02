@@ -25,5 +25,8 @@ public class ExercicioUm {
                 System.out.println(num[i] + " é maior que a média.");
             }
         }
+
+        Prompt.separador();
+        
     }
 }
