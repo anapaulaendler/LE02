@@ -1,4 +1,4 @@
-public class ExercicioSeis {
+public class Exercicio06 {
     public static void executar() {
         /* Elabore um programa que leia um vetor com 5 notas de um aluno e um outro vetor 
         com 5 pesos e calcule a média ponderada do aluno.  
