@@ -1,4 +1,4 @@
-public class ExercicioDoze {
+public class Exercicio12 {
     public static void executar() {
         /* Elabore um programa que leia um vetor de 12 elementos apresente na tela o 
         produto dos elementos pares positivos (desconsiderar o zero). Exemplo: {0, 5, 8, 1, 
