@@ -1,4 +1,4 @@
-public class ExercicioQuatro {
+public class Exercicio04 {
     public static void executar() {
         /*  Elabore um programa que leia um vetor de 5 números digitados pelo usuário e uma 
         variável de um número n qualquer, depois mostre na tela o índice dos elementos que 
