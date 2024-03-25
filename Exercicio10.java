@@ -1,4 +1,4 @@
-public class ExercicioDez {
+public class Exercicio10 {
     public static void executar() {
         /* Crie um programa que leia um vetor A de 5 posições e, ao final da leitura, copie 
         os elementos de A em B de forma invertida. Ou seja, o primeiro elemento de A é o 
