@@ -1,4 +1,4 @@
-public class ExercicioQuinze {
+public class Exercicio15 {
     public static void executar() {
         /* Elabore um algoritmo que leia 5 números do teclado e preencha um vetor de 
         acordo com a seguinte regra: com exceção do 1º número, só é permitido armazenar 
