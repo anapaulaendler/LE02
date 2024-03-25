@@ -1,4 +1,4 @@
-public class ExercicioUm {
+public class Exercicio01 {
     public static void executar() {
         /*  Construa um programa que leia em um vetor uma sequência de 5 números digitados 
         pelo usuário, calcule a média e apresente na tela quais valores são menores, iguais 
