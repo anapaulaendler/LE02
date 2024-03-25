@@ -1,4 +1,4 @@
-public class ExercicioQuatorze {
+public class Exercicio14 {
     public static void executar() {
     /* Faça um programa que leia um vetor de 5 elementos e, após a leitura, posicione 
     o maior elemento na última posição do vetor. Nenhum número do vetor pode ser 
