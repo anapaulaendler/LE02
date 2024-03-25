@@ -1,4 +1,4 @@
-public class ExercicioTres {
+public class Exercicio03 {
     public static void executar() {
         /* Faça um programa que leia em um vetor uma sequência finita de números digitados 
         pelo usuário. Crie um segundo vetor que armazene o dobro de cada número do 
