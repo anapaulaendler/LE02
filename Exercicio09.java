@@ -1,4 +1,4 @@
-public class ExercicioNove {
+public class Exercicio09 {
     public static void executar() {
         /* Elabore um programa que leia os vetores A e B de 5 elementos e gere um vetor C 
         de acordo com as seguintes regras: 
